@@ -1,5 +1,4 @@
 # 创建时间 2022-5-17
-# 编写者 陈实
 # 名称 数据库工具类
 import mysql.connector as mysql_conn
 
