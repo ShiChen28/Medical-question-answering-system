@@ -1,5 +1,4 @@
 # 创建时间 2022-5-17
-# 编写者 陈实
 # 名称 机器人程序
 import gensim
 import numpy as np
