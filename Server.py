@@ -1,5 +1,4 @@
 # 创建时间 2022-5-17
-# 编写者 陈实
 # 名称 服务端程序
 import socket  # 网络通信库
 from threading import Thread  # 多线程处理
