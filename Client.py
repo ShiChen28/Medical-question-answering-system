@@ -1,5 +1,4 @@
 # 创建时间 2022-5-17
-# 编写者 陈实
 # 名称 客户端程序
 import json
 from PyQt5.QtWidgets import *
