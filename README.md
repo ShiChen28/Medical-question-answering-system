@@ -1,5 +1,7 @@
 # 一个小作业
-基于MySQL和Word2Vec模型实现一个简单的带机器人对话系统的医疗咨询平台。
+基于MySQL和Word2Vec模型实现一个简单的带机器人对话系统的医疗咨询平台
+
+详细项目信息及设计思路说明可见设计文档: `智能医疗问答系统设计文档_Chanser.pdf`。
 
 `Client.py` 客户端程序
 
@@ -11,7 +13,6 @@
 
 `erke.bin` Word2Vec模型文件(儿科问题相关)
 
-详细项目信息及设计思路说明可见设计文档: `智能医疗问答系统设计文档_Chanser.pdf`
 
 # 数据集
 由Toyhom提供的Chinese medical dialogue data 中文医疗问答数据集：
