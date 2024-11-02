@@ -1,4 +1,4 @@
-基于MySQL和Word2Vec模型实现医疗相关对话机器人
+基于MySQL和Word2Vec模型实现医疗相关对话机器人平台
 # 文件
 Client.py 客户端程序
 Server.py 服务器程序
