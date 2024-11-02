@@ -1,5 +1,5 @@
 # 一个小作业
-基于MySQL和Word2Vec模型实现医疗相关对话机器人平台
+基于MySQL和Word2Vec模型实现带机器人对话系统的医疗咨询平台
 
 Client.py 客户端程序
 
