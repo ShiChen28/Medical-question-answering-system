@@ -15,7 +15,7 @@
 
 
 # 数据集
-感谢由Toyhom提供的Chinese medical dialogue data 中文医疗问答数据集：
+感谢Toyhom提供的Chinese medical dialogue data 中文医疗问答数据集：
 
 https://github.com/Toyhom/Chinese-medical-dialogue-data
 
