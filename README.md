@@ -3,7 +3,7 @@
 
 ![teaserfigure](pic.png)
 
-机器人对话的实现仅仅只是利用训练好的Word2Vec模型将语句转成词向量，并利用词向量实现语句相似性计算，利用已经准备好的问答数据集，返回相似性最高的问句对应的回答。
+机器人对话的实现仅仅只是先由在语料上训练好的Word2Vec模型将语句转成词向量，并利用词向量实现语句相似性计算，利用已经准备好的问答数据集，返回相似性最高的问句对应的回答。
 
 详细项目信息及设计思路说明可见设计文档: `智能医疗问答系统设计文档_Chanser.pdf`。
 
@@ -19,7 +19,7 @@
 `erke.bin` Word2Vec模型文件(儿科问题相关)
 
 
-# 数据集
+# 语料
 感谢Toyhom提供的Chinese medical dialogue data 中文医疗问答数据集：
 
 https://github.com/Toyhom/Chinese-medical-dialogue-data
