@@ -20,9 +20,7 @@
 
 
 # 语料
-感谢Toyhom提供的Chinese medical dialogue data 中文医疗问答数据集：
-
-https://github.com/Toyhom/Chinese-medical-dialogue-data
+感谢Toyhom提供的中文医疗问答数据集: [Chinese medical dialogue data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 
 # 运行
 首先运行`Server.py`，待显示开始开放连接后运行`Client.py`客户端
