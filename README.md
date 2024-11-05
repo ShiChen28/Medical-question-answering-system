@@ -1,4 +1,4 @@
-# 一个小作业
+# 一个软件工程小作业
 基于MySQL和Word2Vec模型实现一个简单的带机器人对话系统的医疗咨询平台
 
 ![teaserfigure](pic.png)
