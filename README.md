@@ -22,8 +22,11 @@
 
 # 环境
 PyCharm Community Edition 2021.2.2
+
 MySQL8.0/MySQL Workbench8.0 CE
+
 PyQt5
+
 Gensim(仅用于Word2Vec的训练，已提供训练结果文件)
 
 # 语料
