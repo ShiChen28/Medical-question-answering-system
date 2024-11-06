@@ -20,6 +20,11 @@
 
 `erke.bin` Word2Vec模型文件(儿科问题相关)
 
+# 环境
+PyCharm Community Edition 2021.2.2
+MySQL8.0/MySQL Workbench8.0 CE
+PyQt5
+Gensim(仅用于Word2Vec的训练，已提供训练结果文件)
 
 # 语料
 感谢Toyhom提供的中文医疗问答数据集: [Chinese medical dialogue data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
