@@ -7,9 +7,9 @@
 
 详细项目信息及设计思路说明可见设计文档: `智能医疗问答系统设计文档_Chanser.pdf`。
 
-本项目仅作参考交流，UI界面所用图片来源网络(由于时间过去太久我也忘了是从哪儿找到的)。感谢这些图片作者的贡献！如有侵权请联系我删除：shichen2001x@gmail.com 。
+:wave: 本项目仅作参考交流，UI界面所用图片来源网络(由于时间过去太久我也忘了是从哪儿找到的)。感谢这些图片作者的贡献！如有侵权请联系我删除：shichen2001x@gmail.com 。
 
-## 代码文件
+## :computer: 代码文件
 `Client.py` 客户端程序
 
 `Server.py` 服务器程序
@@ -20,7 +20,7 @@
 
 `erke.bin` Word2Vec模型文件(儿科问题相关)
 
-## 环境
+## :partly_sunny: 环境
 PyCharm Community Edition 2021.2.2
 
 MySQL8.0/MySQL Workbench8.0 CE
@@ -29,10 +29,10 @@ PyQt5
 
 Gensim(仅用于Word2Vec的训练，已提供训练结果文件)
 
-## 语料
+## :clap: 语料
 感谢Toyhom提供的中文医疗问答数据集: [Chinese medical dialogue data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 
-## 运行
+## :dolphin: 运行
 首先运行`Server.py`，待显示开始开放连接后运行`Client.py`客户端
 
 
