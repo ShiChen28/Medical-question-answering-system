@@ -33,6 +33,8 @@ Gensim(仅用于Word2Vec的训练，已提供训练结果文件)
 感谢Toyhom提供的中文医疗问答数据集: [Chinese medical dialogue data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 
 ## :dolphin: 运行
-首先运行`Server.py`，待显示开始开放连接后运行`Client.py`客户端
+请先在`dbutil.py`配置您的数据库信息。
+
+编译时，首先编译`Server.py`，待显示开始开放连接后编译`Client.py`客户端。
 
 
