@@ -27,7 +27,7 @@ MySQL8.0/MySQL Workbench8.0 CE
 
 PyQt5
 
-Gensim(仅用于Word2Vec的训练，已提供训练结果文件)
+Gensim(仅用于Word2Vec的训练和模型导入，已提供训练结果文件)
 
 ## :clap: 语料
 感谢Toyhom提供的中文医疗问答数据集: [Chinese medical dialogue data](https://github.com/Toyhom/Chinese-medical-dialogue-data)
