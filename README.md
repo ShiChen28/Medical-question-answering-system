@@ -34,6 +34,19 @@ Gensim(仅用于Word2Vec的训练，已提供训练结果文件)
 
 ## :dolphin: 运行
 请先在`dbutil.py`配置您的数据库信息。
+```
+# 获取连接
+def database_conn():
+    try:
+        conn = mysql_conn.connect(host = '*******',
+                                  database = '*******',
+                                  user = '*******',
+                                  password = '*******'
+                                  )
+        return conn
+    except mysql_conn.Error:
+        print('数据库连接异常')
+```
 
 编译时，首先编译`Server.py`，待显示开始开放连接后编译`Client.py`客户端。
 
