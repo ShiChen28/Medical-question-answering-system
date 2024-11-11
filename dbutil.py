@@ -5,10 +5,10 @@ import mysql.connector as mysql_conn
 # 获取连接
 def database_conn():
     try:
-        conn = mysql_conn.connect(host = 'localhost',
-                                  database = 'm_qa',
-                                  user = 'root',
-                                  password = '1915200031'
+        conn = mysql_conn.connect(host = '*******',
+                                  database = '*******',
+                                  user = '*******',
+                                  password = '*******'
                                   )
         return conn
     except mysql_conn.Error:
