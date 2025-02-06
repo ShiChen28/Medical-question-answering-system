@@ -7,20 +7,20 @@
 
 机器人对话的实现仅仅只是先由在语料上训练好的Word2Vec模型将语句转成词向量，并利用词向量实现语句相似性计算，利用已经准备好的问答数据集，返回相似性最高的问句对应的回答。
 
-详细项目信息及设计思路说明可见设计文档: `智能医疗问答系统设计文档_Chanser.pdf`。
+详细项目信息及设计思路说明可见设计文档: `智能医疗问答系统设计文档_ShiChen28.pdf`。
 
 :wave: 本项目仅作参考交流，UI界面所用图片来源网络(由于时间过去太久我也忘了是从哪儿找到的)。感谢这些图片作者的贡献！如有侵权请联系我删除：shichen2001x@gmail.com 。
 
 ## :computer: 代码文件
-`Client.py` 客户端程序
+`src\Client.py` 客户端程序
 
-`Server.py` 服务器程序
+`src\Server.py` 服务器程序
 
-`dbutil.py` 数据库工具类
+`src\dbutil.py` 数据库工具类
 
-`Robot.py` 机器人类
+`src\Robot.py` 机器人类
 
-`erke.bin` Word2Vec模型文件(儿科问题相关)
+`src\erke.bin` Word2Vec模型文件(儿科问题相关)
 
 ## :partly_sunny: 环境
 PyCharm Community Edition 2021.2.2
